@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:fox_spawn_egg": 1,
+      "minecraft:zombie_spawn_egg": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1231,
+      "minecraft:walk_one_cm": 2755,
+      "minecraft:total_world_time": 1285,
+      "minecraft:fly_one_cm": 31,
+      "minecraft:damage_taken": 200,
+      "minecraft:play_time": 1231,
+      "minecraft:damage_dealt": 9,
+      "minecraft:time_since_death": 1231
+    }
+  },
+  "DataVersion": 4671
+}

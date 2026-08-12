@@ -1,0 +1,50 @@
+/gamemode survival
+/gamemode creative
+/time set night
+/time set day
+/time set night
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set day
+/time set night
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/gamemode creative
+/time set day
+/weather clear
+/time set day
+/gamerule advance_weather false
+/gamerule advance_time
+/gamerule advance_time false
+/time set day
+/time set 2000
+/time set night
+/gamemode survival
+/gamemode creative
+/time set day
+/time set night
+/gamemode survival
+/time set day
+/give @p minecraft:zombie_spawn_egg
+/time set night
+/time set day
+/gamemode creative
+/time set night
+/gamemode survival
+/gamemode creative
+/time set day
+/time set night
+/gamemode survival
+/gamemode creativeq
+/gamemode creative
+/time set day
+/time set night
+/gamerule keep_inventory true
+/gamemode survival
+/gamemode creative
+/time set dayu
+/time set day

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "custompets",
+  "version": "1.0",
+  "name": "CustomPets",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/custompets/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.reedwellarts.custompets.client.CustompetsDataGenerator"
+    ],
+    "main": [
+      "com.reedwellarts.custompets.CustomPets"
+    ],
+    "client": [
+      "com.reedwellarts.custompets.client.CustomPetsClient"
+    ]
+  },
+  "mixins": [
+    "custompets.mixins.json",
+    {
+      "config": "custompets.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  }
+}

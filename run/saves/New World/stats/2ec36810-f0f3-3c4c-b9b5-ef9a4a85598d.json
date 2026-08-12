@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:fox_spawn_egg": 1,
+      "minecraft:sweet_berries": 2
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 7119,
+      "minecraft:walk_one_cm": 35764,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:play_time": 7119,
+      "minecraft:damage_dealt": 30,
+      "minecraft:jump": 39,
+      "minecraft:time_since_death": 7119,
+      "minecraft:sprint_one_cm": 421,
+      "minecraft:total_world_time": 7298,
+      "minecraft:fly_one_cm": 4040,
+      "minecraft:crouch_one_cm": 50,
+      "minecraft:sneak_time": 46
+    },
+    "minecraft:picked_up": {
+      "minecraft:feather": 1,
+      "minecraft:chicken": 1,
+      "minecraft:leather": 1,
+      "minecraft:beef": 5
+    }
+  },
+  "DataVersion": 4671
+}
